@@ -19,7 +19,7 @@ Citizen.CreateThread(function ()
             rotation = 337.75,
             options = {
                 {
-                    name = 'Xonex-RentCar1',
+                    name = 'ls-rentcar',
                     icon = 'fa-solid fa-car',
                     label = 'Otwórz Liste Pojazdów',
                     onSelect = function ()
